@@ -1,3 +1,4 @@
-# Fft
+fft
+===
 
-** TODO: Add description **
+Fast Fourier Transform implemented in Elixir
